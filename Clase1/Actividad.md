@@ -1,4 +1,4 @@
-### Actividad de discusión guiada (por grupos)
+### Actividad de discusión guiada 1 (por grupos)
 
 Cada grupo debe elegir **un caso de uso de IA** en **ciencia, industria o sociedad**, idealmente relacionado con un tema que quieran desarrollar durante la maestría.
 
